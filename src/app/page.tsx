@@ -84,10 +84,10 @@ export default async function Home() {
     <div className="container">
       <div className="head">
         <div className="headerobjectswrapper">
-          <header>The Daily Prophet</header>
+          <header>JAZZKUH.COM</header>
         </div>
         <div className="subhead">
-          Hogwarts - Thursday August 30, 1978 - Seven Pages
+          {"Uhhh, I'm not sure what to put here yet. I'll think of something, or not."}
         </div>
       </div>
 

@@ -1,19 +1,17 @@
 ---
 id: "3"
-headline: "May the Force be with you"
-headlineType: "hl1"
-subheadline: "Let go your conscious self and act on instinct"
-subheadlineType: "hl2"
+headline: "De Aardappel – Meer Dan Een Knol, Een Filosofie"
+headlineType: "hl3"
+author: "Gert-Jan Pieper"
+authorType: "hl4"
 ---
 
-Partially, but it also obeys your commands. Hey, Luke! May the Force be with you. I have traced the Rebel spies to her. Now she is my only link to finding their secret base.
+Er zijn weinig dingen in het leven zo betrouwbaar als de aardappel. Je kunt op mensen rekenen, tot ze je teleurstellen. Je kunt vertrouwen op technologie, tot je wifi ermee ophoudt. Maar een aardappel? Die is er altijd. Stil, bescheiden, maar o zo krachtig.
 
-![Let go your conscious self and act on instinct](/images/force.gif)
+Denk er eens over na: de aardappel vraagt niets van je. Hij heeft geen opschepperige kleuren zoals een paprika, geen overdreven parfum zoals knoflook. Hij ligt daar gewoon, in alle rust, wachtend tot jij besluit wat je ermee gaat doen. En de mogelijkheden? Oneindig.
 
-Leave that to me. Send a distress signal, and inform the Senate that all on board were killed.
+Patat? Natuurlijk. Stamppot? Altijd goed. Gekookt, gebakken, gepoft? De aardappel oordeelt niet. Hij past zich aan zonder klagen. Als groenten een jazzband waren, zou de aardappel de contrabas zijn—altijd aanwezig, nooit opdringerig, maar zonder hem zou het hele geheel instorten.
 
-> Don't underestimate the Force. I suggest you try it again, Luke.
+En dan is er nog de vorm. Geen enkele aardappel is perfect rond, en toch accepteren we hem zoals hij is. Waarom doen we dat niet met mensen? De aardappel is een les in zelfacceptatie. Je hoeft geen avocado te zijn met een hippe pit in het midden om geliefd te worden. Je kunt gewoon een aardappel zijn: een beetje bobbelig, maar onmisbaar.
 
-This time, let go your conscious self and act on instinct. In my experience, there is no such thing as luck. You're all clear, kid. Let's blow this thing and go home!
-
-You don't believe in the Force, do you? Partially, but it also obeys your commands. The plans you refer to will soon be back in our hands. As you wish.
+Dus laten we even stilstaan bij dit bescheiden wonder. Want in een wereld vol trends en tijdelijke hypes blijft er altijd één ding waar je op kunt vertrouwen: de aardappel.

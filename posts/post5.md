@@ -1,17 +1,15 @@
 ---
 id: "5"
-headline: "It wasn't a dream"
-headlineType: "hl1"
-author: "FRANZ KAFKA"
+headline: "Het mysterie van de verdwijnende sokken verklaard"
+headlineType: "hl3"
+author: "Henk van Wafelton"
 authorType: "hl4"
 ---
 
-One morning, when Gregor Samsa woke from troubled dreams, he found himself transformed in his bed into a horrible vermin. He lay on his armour-like back, and if he lifted his head a little he could see his brown belly, slightly domed and divided by arches into stiff sections.
+Sokkenliefhebbers wereldwijd hebben eindelijk antwoord gekregen op de eeuwige vraag: waar verdwijnen al die verloren sokken in de wasmachine? Het blijkt dat ze niet stiekem verdwijnen in de lucht, maar juist in een parallel universum.
 
-The bedding was hardly able to cover it and seemed ready to slide off any moment. His many legs, pitifully thin compared with the size of the rest of him, waved about helplessly as he looked.
+Professor Socktopus, een wereldberoemde onderzoeker op het gebied van verloren wasgoed, heeft onlangs de oplossing gepresenteerd. "Het is geen toeval dat je altijd maar één sok van een paar terugvindt," legt hij uit. "Elke keer als je sokken in de wasmachine gaan, openen ze een portaal naar een parallel universum waar sokken de dominante soort zijn."
 
-> What's happened to me?
+In dit andere universum heersen sokken met ongekende intelligentie. Ze hebben geheime samenlevingen opgebouwd en communiceren met andere kledingstukken, zoals onderbroeken en t-shirts. De verloren sokken zijn in werkelijkheid op een ontdekkingsreis naar dit nieuwe rijk.
 
-It wasn't a dream. His room, a proper human room although a little too small, lay peacefully between its four familiar walls. A collection of textile samples lay spread out on the table - Samsa was a travelling salesman - and above it there hung a picture that he had recently cut out of an illustrated magazine and housed in a nice, gilded frame.
-
-It showed a lady fitted out with a fur hat and fur boa who sat upright, raising a heavy fur muff that covered the whole of her lower arm towards the viewer. Gregor then turned to look out the window at the dull weather.
+Er wordt gezegd dat de sokken zich voorbereiden op hun terugkeer. Het is zelfs geruchten dat ze een enorme sokkenrevolutie plannen, waarbij ze de controle over de wasmachines zelf zullen overnemen. Maar voor nu moeten we genoegen nemen met het feit dat je waarschijnlijk nooit je andere sok weer zult zien.

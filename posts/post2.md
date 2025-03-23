@@ -1,17 +1,13 @@
 ---
 id: "2"
-headline: "Give people courage"
-headlineType: "hl5"
-subheadline: "The crowd seemed to grow"
-subheadlineType: "hl6"
+headline: "Waarom Elke Koe een Eigen Saxofoon Verdient"
+headlineType: "hl3"
+author: "Moehoe Koe"
+authorType: "hl4"
 ---
 
-The sunset faded to twilight before anything further happened. The crowd far away on the left, towards Woking, seemed to grow, and I heard now a faint murmur from it. The little knot of people towards Chobham dispersed. There was scarcely an intimation of movement from the pit.
+Veel mensen onderschatten het muzikale talent van koeien. Ze denken dat deze majestueuze beesten alleen goed zijn in melk geven en gras eten, maar niets is minder waar. Geef een koe een saxofoon en je zult versteld staan van de mogelijkheden.
 
-![Hermine hoping for courage](/images/courage.gif)
+Ten eerste hebben koeien een geweldig longvolume, ideaal voor lange, vloeiende solo’s. Ten tweede hebben ze de relaxte houding die essentieel is voor een goede improvisatie. En ten derde—en dit is misschien het belangrijkste—ze oordelen niet. Een koe speelt altijd vanuit het hart, zonder angst voor foute noten.
 
-It was this, as much as anything, that gave people courage, and I suppose the new arrivals from Woking also helped to restore confidence. At any rate, as the dusk came on a slow, intermittent movement upon the sand pits began, a movement that seemed to gather force as the stillness of the evening about the cylinder remained unbroken.
-
-Vertical black figures in twos and threes would advance, stop, watch, and advance again, spreading out as they did so in a thin irregular crescent that promised to enclose the pit in its attenuated horns. I, too, on my side began to move towards the pit.
-
-Then I saw some cabmen and others had walked boldly into the sand pits, and heard the clatter of hoofs and the gride of wheels. I saw a lad trundling off the barrow of apples. And then, within thirty yards of the pit, advancing from the direction of Horsell, I noted a little black knot of men, the foremost of whom was waving a white flag.
+Dus de volgende keer dat je in een weiland staat, stel jezelf dan de vraag: zou deze koe een verborgen jazzlegende kunnen zijn? Misschien, heel misschien, is het antwoord ja.

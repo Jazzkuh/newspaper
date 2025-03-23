@@ -2,7 +2,7 @@ import { ReactNode } from "react";
 import "./globals.css";
 
 export const metadata = {
-  title: "Newspaper",
+  title: "jazzkuh.com",
   description: "A classic newspaper layout built with Next.js",
 };
 
